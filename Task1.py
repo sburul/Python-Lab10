@@ -1,4 +1,4 @@
-# Seyfullah Burul 040963942
+# Seyfullah Burul
 # Last Modified: November 27, 2020
 # Reading text file and converting it into a csv file format
 
